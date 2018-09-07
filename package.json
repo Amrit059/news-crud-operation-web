@@ -1,0 +1,21 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app && ng build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amritpal Singh",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "config": "^1.30.0",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.1",
+    "mongoose": "^5.0.14",
+    "nodemon": "^1.17.3"
+  }
+}

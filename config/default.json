@@ -1,0 +1,11 @@
+{
+    
+    "appConfig": {
+      "hostConfig": {
+          "port": 3000
+      },
+      "dbConfig": {
+        "url":"<enter your mongodb database url>"
+      }
+    }
+  }

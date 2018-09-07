@@ -1,0 +1,11 @@
+{
+    
+    "appConfig": {
+      "hostConfig": {
+          "port":4000
+      },
+      "dbConfig": {
+        "url": "mongodb://useramrit:pwamrit@ds261828.mlab.com:61828/news"
+      }
+    }
+  }
